@@ -1,5 +1,5 @@
 <!-- Title -->
-<title>@yield("title") Next Stage</title>
+<title>@yield("title")</title>
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="{{ URL::asset('assets/images/favicon.ico') }}" type="image/x-icon" />
