@@ -37,7 +37,7 @@
                         <input type="text" value="{{$value->Phone}}" name="Phone" class="form-control" id="">
                     </div>
 
-                    <input type="text"  value="{{ $value->id }}" name="id" class="form-control" id="Website">
+                    <input type="hidden"  value="{{ $value->id }}" name="id" class="form-control" id="Website">
 
 
 
